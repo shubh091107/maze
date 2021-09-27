@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 5px;
+  border-style:groove;
+  padding: auto;
+}
+button{
+  display: inline;
+  border: groove;
+  size: 25px;
+}
+h3{
+  size: 20px;
+  color: rgb(48, 27, 233);
+}
+h1{
+margin: 30px;  
+color: rgb(255, 0, 0);
+}
